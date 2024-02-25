@@ -55,11 +55,11 @@ local
 	math.huge,
 	math.floor,
 
-	0x2D2D2D,
 	0xE1E1E1,
-	0x878787,
-	0x878787,
-	0xE1E1E1
+	0x2D2D2D,
+	0x2D2D2D,
+	0x2D2D2D,
+	0x2D2D2D
 
 local
 	eeprom,
